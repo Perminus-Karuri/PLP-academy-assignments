@@ -1,0 +1,51 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+    padding: 0;
+}
+
+header{
+    background-color: aqua;
+    padding: 30px;
+    margin: 10px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#intro{
+    background-color: #8d8d8d;
+    padding: 20px;
+    font-size: 15px;
+    margin: 10px;
+}
+
+#skills{
+    background: url(tech2.jpg);
+    background-color: rgb(8, 254, 40);
+    padding: 20px;
+    margin: 10px;
+    font-size: 25px;
+    background-size: cover;
+    background-position: center center;
+    color: aqua;
+}
+
+#contacts{
+    background: url(tech.jpg);
+    background-color: aquamarine;
+    padding: 30px;
+    margin: 30px;
+    font-weight: bold;
+    background-size: cover;
+}
+
+footer{
+    background: url(download.jpeg);
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    background-color: aquamarine;
+    color: aqua;
+}
