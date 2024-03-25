@@ -1,0 +1,73 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+
+nav{
+    height: 50px;
+    background-color: rgb(94, 96, 80);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+nav a{
+    text-decoration: none;
+    color: aqua;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+}
+nav li{
+    padding: 0 20px;
+    margin: 10px;
+}
+
+#about{
+    font-size: 13px;
+    background: url(photo2.jpeg);
+    background-size: cover;
+    background-position: 20px;
+    color: aqua;
+    padding: 10px;
+    margin: 20px;
+}
+
+#projects{
+    font-size: 13px;
+    background: url(photo3.jpeg);
+    background-size: cover;
+    background-position: center;
+    padding: 10px;
+    margin: 20px;
+    color: aqua;
+}
+
+#skills{
+    font-size: 13px;
+    background: url(photo4.jpeg);
+    background-size: cover;
+    background-position: center center;
+    color: aqua;
+    padding: 10px;
+    margin: 20px;
+}
+
+#contact{
+    font-size: 10px;
+    background: url(photo5.jpeg);
+    background-position: center center;
+    background-size: cover;
+    padding: 10px;
+    margin: 20px;
+    color: aqua;
+}
+
+main{
+    max-width: fit-content;
+    margin: 0 auto;
+    padding: 20px;
+}
